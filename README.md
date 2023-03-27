@@ -51,12 +51,13 @@
 <a href="https://twitter.com/tekletsadik21" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/twitter.svg" alt="Tekletsadik21" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/tekletsadik21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/linkedin.svg" alt="Tekletsadik21" height="30" width="30" /></a>
 <a href="mailto:tekletsadikethiopia21@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+251944738449" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+<a href="mailto:tekletsadikethiopia21@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/telegram-svgrepo-com.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="mailto:tekletsadikethiopia21@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/whatsapp-svgrepo-com.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 ## _If you liked my profile, you can Star ⭐ the repo._
 
-Would you ike to meet me?
+Would you like to meet me?
 
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
 
