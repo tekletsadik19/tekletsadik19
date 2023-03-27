@@ -37,9 +37,9 @@
 
 <!--   GitHub stats graph -->
 
-| .                                                                                                                                                         | .                                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| ![Tekletsadik21's github stats](https://github-readme-stats.vercel.app/api?username=Tekletsadik21&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tekletsadik21&theme=radical&layout=compact) |
+| .                                                                                                                                              | .                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| ![Tekletsadik21's github stats](https://github-readme-stats.vercel.app/api?username=Tekletsadik21&show_icons=true&theme=radical&hide=contribs) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tekletsadik21&theme=radical&layout=compact) |
 
 <!--   grid-snake -->
 
