@@ -19,7 +19,7 @@
 
 <!--   my-ticker -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=++++++++Hi+there+👋,+I+am+Tekletsadik+A+Tesfa;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+and+Flutter+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=++++++++Hi+there+👋,+I+am+Tekletsadik+A+Tesfa;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+and+Flutter+enthusiast+;Kaggle+community+member;I+am+a+software+engineering+student+at+Arbaminch+University+who+loves+machine+learning,+cloud+computing+and+Flutter.+I+have+developed+several+projects+using+these+technologies,+such+as+an+image+classifier,+a+photo-sharing+web+app+and+a+Social+Media+Flutter+app+for+Arbaminch+University;)](https://git.io/typing-svg)
 
 ### My achievements on [kaggle](https://www.kaggle.com/tekletsadikatesfa21):
 
