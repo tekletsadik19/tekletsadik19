@@ -23,12 +23,6 @@
 
 ### My achievements on [kaggle](https://www.kaggle.com/tekletsadikatesfa21):
 
-<!--   GitHub stats graph -->
-
-### 📈 GitHub Activity Graph:
-
-[![Tekletsadik21's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tekletsadik21&theme=github-compact)](https://github.com/Tekletsadik21/github-readme-activity-graph)
-
 <!--   my-skils -->
 
 | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
