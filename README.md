@@ -52,7 +52,7 @@
 <a href="https://www.linkedin.com/in/tekletsadik21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/linkedin.svg" alt="Tekletsadik21" height="30" width="30" /></a>
 <a href="mailto:tekletsadikethiopia21@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <a href="https://t.me/tekletsadik19" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/telegram-svgrepo-com.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="mailto:tekletsadikethiopia21@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/whatsapp-svgrepo-com.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://wa.me/251944738449" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/whatsapp-svgrepo-com.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 ## _If you liked my profile, you can Star ⭐ the repo._
