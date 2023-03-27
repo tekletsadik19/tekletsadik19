@@ -47,6 +47,10 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | ![Tekletsadik21's github stats](https://github-readme-stats.vercel.app/api?username=Tekletsadik21&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tekletsadik21&theme=radical&layout=compact) |
 
+<!--   grid-snake -->
+
+![](https://github.com/Tekletsadik21/Tekletsadik21/blob/output/github-contribution-grid-snake.svg)
+
 **📫 How to Reach me:**
 
 <p align="left">
