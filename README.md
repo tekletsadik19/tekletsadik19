@@ -21,8 +21,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tekletsadik+A+Tesfa;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+and+Flutter+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
-my-kaggle
-
 ### My achievements on [kaggle](https://www.kaggle.com/tekletsadikatesfa21):
 
 <!--   my-skils -->
@@ -51,12 +49,6 @@ my-kaggle
 <a href="mailto:tekletsadikethiopia21@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=+251944738449" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
-
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
----
 
 ## _If you liked my profile, you can Star ⭐ the repo._
 
