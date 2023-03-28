@@ -48,7 +48,7 @@
 **📫 How to Reach me:**
 
 <p align="left">
-<a href="https://twitter.com/tekletsadik21" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik22/Tekletsadik21/master/assets/twitter.svg" alt="Tekletsadik21" height="30" width="30" /></a>
+<a href="https://twitter.com/tekletsadik22" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/twitter.svg" alt="Tekletsadik21" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/tekletsadik21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/linkedin.svg" alt="Tekletsadik21" height="30" width="30" /></a>
 <a href="mailto:tekletsadikethiopia21@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <a href="https://wa.me/251944738449" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/whatsapp-svgrepo-com.svg" alt="Gmail" height="30" width="30" /></a>
