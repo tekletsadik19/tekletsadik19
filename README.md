@@ -6,8 +6,7 @@
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/Tekletsadik21/Tekletsadik21/graphs/contributors"><img src="https://img.shields.io/github/contributors/Tekletsadik21/Tekletsadik21?color=blue"></a>
     <a href="https://github.com/Tekletsadik21/Tekletsadik21/stargazers"><img src="https://img.shields.io/github/stars/Tekletsadik21/Tekletsadik21.svg?logo=github"></a>
-    <a href="https://github.com/Tekletsadik21/Tekletsadik21/network/members"><img src="https://img.shields.io/github/forks/Tekletsadik21/Tekletsadik21.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Tekletsadik21.Tekletsadik21" alt="visitors"/>   
+    <a href="https://github.com/Tekletsadik21/Tekletsadik21/network/members"><img src="https://img.shields.io/github/forks/Tekletsadik21/Tekletsadik21.svg?color=blue&logo=github"></a> 
 </p>
 
 <!--   my-header-img -->
