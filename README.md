@@ -42,6 +42,12 @@
 <a href="mailto:tekletsadikethiopia21@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tekletsadik19&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook)
+![](https://github-readme-stats.vercel.app/api?username=tekletsadik19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tekletsadik19&theme=dark&hide_border=false)<br/>
+
 ## _Would you like to meet me?._
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
 
