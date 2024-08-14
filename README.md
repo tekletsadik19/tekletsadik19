@@ -47,6 +47,12 @@
 
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda. I am passionate about leveraging technology to create meaningful impact and am always open to discussing potential B2B collaborations in these areas. Feel free to reach out to me for innovative projects or strategic partnerships.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tekletsadik19&label=Profile%20views&color=0e75b6&style=flat" alt="tekletsadik19" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tekletsadik19" alt="tekletsadik19" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 **📫 How to Reach me:**
 
 <p align="left">
