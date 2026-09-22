@@ -1,59 +1,151 @@
-![](assets/Bottom_up.svg)
+<div align="center">
 
-<!--   my-icons -->
+# Tekletsadik A. Tesfa
+
+### Software Engineer
+
+**Backend systems · Native iOS · Multiplatform products**
+
+I turn product ideas into reliable, production-ready software.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/tekletsadik19/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:tekletsadikethiopia21@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open_to-Engineering_Opportunities-111111?style=flat" />
+
+</div>
+
+---
+
+### What I do
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### ⚙️ Backend
+
+Go services, APIs, architecture, PostgreSQL and production systems.
+
+</td>
+<td width="33%" valign="top">
+
+####  Mobile
+
+Swift, SwiftUI and Kotlin Multiplatform applications.
+
+</td>
+<td width="33%" valign="top">
+
+#### ◈ Product
+
+From requirements and architecture to implementation and shipping.
+
+</td>
+</tr>
+</table>
+
+### Core Languages
+
 <p align="center">
-    <a href="https://github.com/Tekletsadik21/Tekletsadik21"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/Tekletsadik21/Tekletsadik21/graphs/contributors"><img src="https://img.shields.io/github/contributors/Tekletsadik21/Tekletsadik21?color=blue"></a>
-    <a href="https://github.com/Tekletsadik21/Tekletsadik21/stargazers"><img src="https://img.shields.io/github/stars/Tekletsadik21/Tekletsadik21.svg?logo=github"></a>
-    <a href="https://github.com/Tekletsadik21/Tekletsadik21/network/members"><img src="https://img.shields.io/github/forks/Tekletsadik21/Tekletsadik21.svg?color=blue&logo=github"></a> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="46" title="Go"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="46" title="Swift"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="46" title="Kotlin"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="46" title="Python"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="46" title="TypeScript"/>
 </p>
 
-<!--   my-header-img -->
+<div align="center">
 
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+`Go` · `Swift` · `Kotlin` · `Python` · `TypeScript`
 
-<!--   my-ticker -->
+</div>
 
-<!--   my-ticker -->
+### Core Stack
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=++++++++Hi+there+👋,+I+am+Tekletsadik+A+Tesfa;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+and+Flutter+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tekletsadik22&label=Profile%20views&color=0e75b6&style=flat" alt="tekletsadik22" /> </p><p align="left"> <a href="https://twitter.com/tekletsadik22" target="blank"><img src="https://img.shields.io/twitter/follow/tekletsadik22?logo=twitter&style=for-the-badge" alt="tekletsadik22" /></a> </p>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<!--   my-skils -->
-
-| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white) ![dart badge](https://img.shields.io/badge/dart-purple?style=flat-square&logo=dart) <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="25" height="25"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="25" height="25"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"/> </a> </p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Domain Knownledge**                           | [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/Tekletsadik21/Tekletsadik21) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ATekletsadik21&type=Repositories) ![devops badge](https://img.shields.io/badge/devops-green?style=flat-square&logo=agile) ![mobile development badge](https://img.shields.io/badge/flutter-blue?style=flat-square&logo=flutter)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/Tekletsadik21/Tekletsadik21) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/Tekletsadik21/Tekletsadik21) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/Tekletsadik21/Tekletsadik21)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-| **Tools & Platform**                            | ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)                <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/> </a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) |
-
-
-
-
-
-**📊 GitHub Stats:** ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tekletsadik19&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook)
-![](https://github-readme-streak-stats.herokuapp.com/?user=tekletsadik19&theme=dark&hide_border=false)<br/>
-
-**#Would you like to meet me?.** ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda. I am passionate about leveraging technology to create meaningful impact and am always open to discussing potential B2B collaborations in these areas. Feel free to reach out to me for innovative projects or strategic partnerships.
-
-
-**📫 How to Reach me:**
-
-<p align="left">
-<a href="https://twitter.com/tekletsadik22" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/twitter.svg" alt="Tekletsadik21" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/tekletsadik19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/linkedin.svg" alt="Tekletsadik21" height="30" width="30" /></a>
-<a href="mailto:tekletsadikethiopia21@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tekletsadik21/Tekletsadik21/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="42" title="Flutter"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="42" title="PostgreSQL"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="42" title="Redis"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="42" title="Docker"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="42" title="GitHub Actions"/>
 </p>
 
-![](assets/Bottom_down.svg)
+<div align="center">
+
+`SwiftUI` · `Kotlin Multiplatform` · `Flutter` · `PostgreSQL` · `Redis` · `Docker`
+
+</div>
+
+---
+
+### Engineering Focus
+
+**4+ years building software** with a focus on:
+
+`Backend Engineering`   `iOS`   `Multiplatform`   `Fintech`   `B2B`
+
+I value **simple architecture, clean APIs, maintainable code and strong product thinking.**
+
+---
+
+### Git & GitHub
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" title="Git"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" title="GitHub"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" title="GitHub Actions"/>
+</p>
+
+<div align="center">
+
+`Git` · `GitHub` · `GitHub Actions` · `CI/CD` · `Pull Requests` · `Code Review`
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tekletsadik21&show_icons=true&hide_border=true&hide_title=true&theme=transparent&rank_icon=github" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tekletsadik21&layout=compact&hide_border=true&theme=transparent&langs_count=5" height="150" />
+
+</div>
+
+---
+
+### Selected Work
+
+My pinned repositories show how I approach **architecture, implementation, code quality and product development**.
+
+**↓ Explore my pinned projects below**
+
+---
+
+<div align="center">
+
+### Have an interesting engineering problem?
+
+<a href="mailto:tekletsadikethiopia21@gmail.com">
+  <img src="https://img.shields.io/badge/Let's_talk-111111?style=for-the-badge&logo=minutemailer&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>Build useful things. Engineer them well. Ship them.</sub>
+
+</div>
